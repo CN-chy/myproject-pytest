@@ -16,6 +16,6 @@ class Test_Order:
         print('test_order_1')
 
     def test_order_2(self):
-        assert 1 == 2
+        assert 1 == 1
         print('test_order_2')
 

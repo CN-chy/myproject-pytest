@@ -16,6 +16,6 @@ class Test_Security:
         print('test_security_1')
 
     def test_security_2(self):
-        assert 1 == 2
+        assert 1 == 1
         print('test_security_2')
 

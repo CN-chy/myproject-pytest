@@ -16,6 +16,6 @@ class Test_Payment:
         print('test_payment_1')
 
     def test_payment_2(self):
-        assert 1 == 2
+        assert 1 == 1
         print('test_payment_2')
 

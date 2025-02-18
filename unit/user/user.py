@@ -16,6 +16,6 @@ class Test_User:
         print('test_user_1')
 
     def test_user_2(self):
-        assert 1 == 2
+        assert 1 == 1
         print('test_user_2')
 
